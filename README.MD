@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **nkus660@gmail.com**
 
-- ⚡ Fact about me **I think i am Alone**
+- ⚡ Fact about me **I am 13 year old child**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
