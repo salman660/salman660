@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/everyday_memez" target="blank"><img src="https://img.shields.io/twitter/follow/everyday_memez?logo=twitter&style=for-the-badge" alt="everyday_memez" /></a> </p>
 
-- 🔭 I’m currently working on [Autocalc](https://play.google.com/store/apps/details?id=com.nkus.com.autocalc)
+- 🔭 I’m currently working on [Autocalc](https://github.com/imengyu/AutoCalc)
 
 - 🌱 I’m currently learning **Java, Kotlin**
 
