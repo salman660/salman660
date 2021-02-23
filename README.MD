@@ -23,7 +23,4 @@
 
 - ⚡ Fact about me **I am 13 year old child**
 
-_/﹋\_
-(҂`_´)
-<,︻╦╤─ ҉ - -
-_/﹋\_
+   ︻╦╤─ ҉ - -
