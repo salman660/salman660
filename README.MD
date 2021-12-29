@@ -15,12 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=5781774584219069382](https://play.google.com/store/apps/dev?id=5781774584219069382)
 
-- 📝 I regularly write articles on [https://dev.to/salman660](https://dev.to/salman660)
+- 📝 I occasionally write articles on [https://dev.to/salman660](https://dev.to/salman660)
 
-- 💬 Ask me about **Graphic Designing, Android Developement**
 
-- 📫 How to reach me **nkus660@gmail.com**
-
-- ⚡ Fact about me **I am 13 year old child**
-
-   ︻╦╤─ ҉ - -
