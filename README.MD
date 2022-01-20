@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman660&label=Profile%20views&color=0e75b6&style=flat" alt="salman660" /> </p>
 
-<p align="left"> <a href="https://twitter.com/evrydaymemez" target="blank"><img src="https://img.shields.io/twitter/follow/everyday_memez?logo=twitter&style=for-the-badge" alt="evrydaymemez" /></a> </p>
-
 - 🔭 I’m currently working on [Autocalc](https://github.com/imengyu/AutoCalc)
 
 - 🌱 I’m currently learning **Java, Kotlin**
