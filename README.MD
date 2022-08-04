@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
-<h3 align="center">A passionate Android developer, Graphic Designer </h3>
+<h3 align="center">A passionate Android developer and a Graphic Designer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman660&label=Profile%20views&color=0e75b6&style=flat" alt="salman660" /> </p>
 
-- 🔭 I’m currently working on [Autocalc](https://github.com/imengyu/AutoCalc)
+- 🔭 I’m currently working on [Zero](https://github.com/lucasasselli/zero)
+- ☺️ Want ot contribute in opensource projects will preferably do the graphic work for it, just hit me up at: nkus660@gmail.com
 
 - 🌱 I’m currently learning **Java, Kotlin**
 
