@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
 
-![Alt Text](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/533f7cc763cd866e4ea4e72ac5935f3e-1660106331/Cat%20in%20Space-GIF/do-any-pixel-8-bit-animation-for-you.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman660&label=Profile%20views&color=0e75b6&style=flat" alt="salman660" /> </p>
